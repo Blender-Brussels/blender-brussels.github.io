@@ -1,33 +1,20 @@
 ---
 layout: page
 permalink: /about/
-title: About the Jekyll Theme
-tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
-modified: 2013-09-13
+title: About Blender-Brussels
+tags: [Blender, Brussels, Belgium, Python, Julien Deswaef, François Zajéga, F/LAT, Variable]
+modified: 2014-04-22
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: Michael Rose
-  creditlink: http://mademistakes.com
+  feature: 
+  credit: 
+  creditlink: 
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes).
+The **Blender-Brussels** also known as **Blender BPY/BGE workshops** is a series of monthly workshops started by [Julien Deswaef](http://xuv.be) and [François Zajéga](http://frankiezafe.org) during the winter of 2012. As a prophecy for the years to come, the first workshop happened in a space called [Variable](http://variable.constantvzw.org) in Brussels, the day the world ended.
 
-## So Simple Theme is all about:
+The goal is to provide a regular rendez-vous and hacking session for everyone interested in mixing Python scripting in the context of Blender. A theme is usually set up for each session, suggested by the participants or by the organizers themselves. All resulting code and notes are published on this website or the github.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations. 
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Disqus comments if you choose to enable.
-* Simple and clear permalink structure[^1].
-* Tags for [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) for a better social sharing experience.
-* Vanilla [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting](http://mmistakes.github.io/articles/so-simple-theme/code-highlighting-post/) to make your code examples look snazzy.
-* Simple search that overlays results based on post title.
-* [Grunt build script]({{ site.url }}/theme-setup/index.html#theme-development) for easier theme development.
-* [Sitemap](https://github.com/mmistakes/so-simple-theme/blob/master/sitemap.xml) for search engines
+Since march 2014, this event is funded by the [Digital Arts Commission of the Wallonia-Brussels Federation](http://www.arts-numeriques.culture.be/).
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+The theme of this website is **So Simple Theme** by [Michael Rose](http://mademistakes).
 
-[^1]: Example: *domain.com/category-name/post-title*
