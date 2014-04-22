@@ -14,6 +14,8 @@ The **Blender-Brussels** also known as **Blender BPY/BGE workshops** is a series
 
 The goal is to provide a regular rendez-vous and hacking session for everyone interested in mixing Python scripting in the context of Blender. A theme is usually set up for each session, suggested by the participants or by the organizers themselves. All resulting code and notes are published on this website or the github.
 
+These workshops are part of the [F/LAT.tmp](http://f-lat.org) program. 
+
 Since march 2014, this event is funded by the [Digital Arts Commission of the Wallonia-Brussels Federation](http://www.arts-numeriques.culture.be/).
 
 The theme of this website is **So Simple Theme** by [Michael Rose](http://mademistakes).
