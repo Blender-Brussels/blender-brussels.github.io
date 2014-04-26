@@ -6,14 +6,12 @@ modified: 2014-04-22
 category: articles
 tags: [workshop, Variable]
 image:
-  feature: 
-  credit: 
-  creditlink: 
+  feature: semaine_numerique_2014.png
+  credit: Semaine Numérique 2014
+  creditlink: htt://lasemainenumerique.be
 comments: false
 share: true
 ---
-
-![Semaine Numérique 2014]({{ site.url }}/images/semaine_numerique_2014.png)
 
 This workshop is part of the ["Semaine Numérique"](http://lasemainenumerique.be/Introduction-a-la-3D-interactive) series of event and intended for a larger audience. The day will start with a presentation of the different projects developped during the previous sessions. The rest of the day will be dedicated to the basics of Python scripting for interactive 3D in Blender.
 
