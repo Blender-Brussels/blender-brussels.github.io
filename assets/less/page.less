@@ -255,25 +255,33 @@ span + .entry-title {
 	text-transform: uppercase;
 	.font-rem(14);
 	a { color: @text-color; }
+	/*
 	@media @large {
 		float: left;
 		width: 150px;
 		margin: 0 40px 40px 0;
 		padding: 0;
 	}
+	*/
 	& > span {
 		padding: 0 20px 10px 0;
 		display: inline-block;
+
+		&:first-child { display: none; }
+
+		/*
 		@media @large {
 			display: block;
 			padding: 8px 0;
 			border-bottom: 1px solid lighten(@black,80);
 			border-bottom: 1px solid fade(@black,10);
 		}
+		*/
 	}
 }
 .author-photo {
 	display: none;
+	/*
 	@media @large {
 		display: block;
 		width: 150px;
@@ -282,6 +290,7 @@ span + .entry-title {
 		.rounded(150px);
 		.clearfix();
 	}
+	*/
 }
 .entry-content {
 	max-width: 640px;
@@ -291,9 +300,11 @@ span + .entry-title {
 	p:first-child {
 		margin-top: 0;
 	}
+	/*
 	@media @large {
 		float: left;
 	}
+	*/
 	p > a,
 	li > a {
 		border-bottom: 1px dotted lighten(@link-color, 50);
