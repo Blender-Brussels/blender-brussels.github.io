@@ -16,7 +16,8 @@ share: true
 By request from [@Ofersmi](https://github.com/ofersmi), we were keen to explore shaders in Blender. Since it's going to take a while to go through the subject, we thought we were going to have at least two sessions around this. This was the first session: "discovering shaders in Blender".
 
 
-Here is a look at what [@frankiezafe](https://github.com/frankiezafe) had achieved after that day ( plus some after-session homework )  
+Here is a look at what [@frankiezafe](https://github.com/frankiezafe) had achieved after that day ( plus some after-session homework )
+
 <iframe src="//player.vimeo.com/video/85974922?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="560" height="313" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 See details of the this experiment on [François Zajega's dedicated page](http://frankiezafe.org/index.php?id=243).
