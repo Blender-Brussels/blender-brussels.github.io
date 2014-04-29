@@ -21,4 +21,6 @@ So the whole workshop was spent tweaking existing python scripts to be able to o
 
 We did not manage to do multiple render passes with a single script. This could be brought up in a future workshop.
 
+Announcements and comments were posted [on the BBUG forum](http://bbug.tuxfamily.org/index.php?p=/discussion/47/2806-blender-bpybge-workshop-constant-variable).
+
 This event was hosted at [Variable, 80 rue Gallait − Schaerbeek](https://www.openstreetmap.org/way/60317745#map=19/50.86677/4.36900) starting at 10:00 and finishing at 18:00.
