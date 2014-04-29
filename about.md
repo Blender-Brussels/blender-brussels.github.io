@@ -20,6 +20,6 @@ These series of workshops are part of the [F/LAT.tmp](http://f-lat.org) program.
 
 Since march 2014, this event is funded by the [Digital Arts Commission of the Wallonia-Brussels Federation](http://www.arts-numeriques.culture.be/).
 
-We also would like to thank [Constant VZW](http://constantvzw.org/site/) and it's **Libre Video Lab** for graciously providing their space and time.
+We also would like to thank [Constant VZW](http://constantvzw.org/site/) and its **Libre Video Lab** for graciously providing their space and time.
 
 The theme of this website is **So Simple Theme** by [Michael Rose](http://mademistakes).
