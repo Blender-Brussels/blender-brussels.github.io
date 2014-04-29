@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Introduction to shaders
-description: ""
-modified: 2014-04-22
+description: "Discovering shader scripting in Blender"
+modified: 
 category: articles
 tags: [workshop, Variable]
 image:
