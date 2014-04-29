@@ -23,8 +23,7 @@ We finally came up with a script that extracts texts (python scripts), objects, 
 
 Download the script [here](https://github.com/Blender-Brussels/bpy-bge-library/tree/master/scripts/bpy/extractor) and run it like this:
 
-{% highlight sh %}
-blender [path/to/file.blend] --background --python [path/to/extractor.py]
-{% endhighlight %}
+    blender [path/to/file.blend] --background --python [path/to/extractor.py]
+
 
 This event was hosted at [Variable, 80 rue Gallait − Schaerbeek](https://www.openstreetmap.org/way/60317745#map=19/50.86677/4.36900) starting at 10:00 and finishing at 18:00.
