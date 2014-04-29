@@ -4,7 +4,7 @@ title: Introduction to interactive 3D
 description: "Presentation of the differents projects done at Blender-Brussels + introduction to the basics of python programming"
 modified: 
 category: articles
-tags: [workshop, Variable]
+tags: [workshop, Variable, OSC]
 image:
   feature: semaine_numerique_2014.png
   credit: Semaine Numérique 2014
