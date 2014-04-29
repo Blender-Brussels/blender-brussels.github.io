@@ -14,7 +14,7 @@ The **Blender-Brussels** − also known as **Blender BPY/BGE workshops** − are
 
 The first workshop happened during winter of 2012 in a house called [Variable](http://variable.constantvzw.org) in Brussels, the day the world ended.
 
-All workshops are open to anyone and generally start at 10:00 and finish at 18:00 the same day. A theme is usually given for each session, either suggested by the participants or by the organizers themselves. All resulting code and notes are published on this website or on the [official github repository](http://github.com/blender-brussels).
+All workshops are open to anyone and generally start at 10:00 and finish at 18:00 the same day. A theme is usually given for each session, either suggested by the participants or by the organizers themselves. All resulting code and notes are open sourced and published on this website or on the [official github repository](http://github.com/blender-brussels).
 
 These series of workshops are part of the [F/LAT.tmp](http://f-lat.org) program. 
 
