@@ -10,7 +10,7 @@ image:
   creditlink: 
 ---
 
-The **Blender-Brussels** also known as **Blender BPY/BGE workshops** is a series of monthly workshops created by [Julien Deswaef](http://xuv.be) and [François Zajéga](http://frankiezafe.org) with the aim of providing a regular gathering and knowledge sharing space for artists and coders interested in Python scripting in the context of Blender. 
+The **Blender-Brussels** also known as **Blender BPY/BGE workshops** are a series of monthly work sessions organized by [Julien Deswaef](http://xuv.be) and [François Zajéga](http://frankiezafe.org) with the aim of providing a regular gathering and knowledge sharing space for artists and coders interested in Python scripting in the context of Blender. 
 
 The first workshop happened during winter of 2012 in a house called [Variable](http://variable.constantvzw.org) in Brussels, the day the world ended.
 
