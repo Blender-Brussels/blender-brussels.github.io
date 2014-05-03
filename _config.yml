@@ -1,6 +1,6 @@
 title:            Blender-Brussels
 description:      Blender Python BPY/BGE workshops since 2012
-logo:             site-logo.png
+logo:             blender-brussels-logo-black.png
 disqus_shortname: 
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
@@ -34,13 +34,16 @@ bing_verify:
 links:
   - title: About
     url: /about/
-  - title: Articles
-    url: /articles/
+  - title: Activities
+    url: /activities/
   - title: F/LAT
     url: http://f-lat.org/
     external: true  
   - title: Variable
     url: http://variable.constantvzw.org/
+    external: true
+  - title: BBUG
+    url: http://bbug.tuxfamily.org/
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
