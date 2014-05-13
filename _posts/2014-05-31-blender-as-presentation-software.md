@@ -13,7 +13,7 @@ comments: false
 share: true
 ---
 
-Blender can certainly display images, text and videos, but it can do so in realtime with the game engine. This then makes it certainly an akward but good candidate for slide-based presentations.
+Blender can certainly display images, text and videos, but it can do so in realtime with the game engine. This then makes it certainly an awkward but good candidate for slide-based presentations.
 
 For the Constant/Variable exhibition coming in june at Kriekelaar, we want to display a slide-show of Blender works done during our workshop sessions.
 
