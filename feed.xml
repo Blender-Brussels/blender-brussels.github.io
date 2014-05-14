@@ -33,8 +33,7 @@ layout: none
   {% for tag in post.tags %}<category scheme="{{ url }}/tags/#{{ tag | uri_escape }}" term="{{ tag }}" />{% endfor %}
   <content type="html">
   {% if site.url != '' and site.url | split: '/' | first != 'http:' and site.url | split: '/' | first != 'https:' %}
-    {% assign post_content = post.content | xml_escape | replace:  site.url, url %}
-    {{ post_content }}
+    {{ post.content | xml_escape | replace:  site.url, url }}
   {% else %}
     {{ post.content | xml_escape }}
   {% endif %}
