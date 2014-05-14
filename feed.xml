@@ -5,7 +5,7 @@ layout: none
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 {% if site.url != '' and site.url | split: '/' | first != 'http:' and site.url | split: '/' | first != 'https:' %}
   {% assign site_url = site.url | prepend: 'http:' %}
-  {% assign post_content = post.content | xml_escape | replace:  site.url, url %}
+  {% assign post_content = post.content | xml_escape | replace:  site.url, site_url %}
 {% else %}
   {% assign site_url = site.url %}
   {% assign post_content = post.content | xml_escape %}
