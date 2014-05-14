@@ -3,7 +3,6 @@ layout: none
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-<!-- {{ page.path }} -->
 <title type="text">{{ site.title }}</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 {% if site.url != '' and site.url | split: '/' | first != 'http:' and site.url | split: '/' | first != 'https:' %}{% assign url = site.url | prepend: 'http:' %}{% else %}{% assign url = site.url %}{% endif %}
