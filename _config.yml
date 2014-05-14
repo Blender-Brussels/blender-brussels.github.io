@@ -75,4 +75,3 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 # Jekyll plugins
 gems:
   - jekyll-mentions
-  - jekyll-sitemap
