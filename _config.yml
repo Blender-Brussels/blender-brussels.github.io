@@ -1,33 +1,33 @@
 title:            Blender-Brussels
 description:      Blender Python BPY/BGE workshops since 2012
 logo:             blender-brussels-logo.png
-disqus_shortname: 
+disqus_shortname:
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://blender-brussels.github.io
+url:              //blender-brussels.github.io
 
 # Owner/author information
 owner:
   name:           Blender-Brussels
-  avatar:         
-  email:          
+  avatar:
+  email:
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
+  twitter:
+  facebook:
   github:         blender-brussels
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
+  stackexchange:
+  linkedin:
+  instagram:
+  flickr:
+  tumblr:
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    
+  google_plus:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
+google_analytics:
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify:
 
 # Links to include in top navigation
 # For external links add external: true
@@ -38,7 +38,7 @@ links:
     url: /activities/
   - title: F/LAT
     url: http://f-lat.org/
-    external: true  
+    external: true
   - title: Variable
     url: http://variable.constantvzw.org/
     external: true
@@ -63,7 +63,7 @@ kramdown:
   use_coderay: false
 
   coderay:
-    coderay_line_numbers: 
+    coderay_line_numbers:
     coderay_line_numbers_start: 1
     coderay_tab_width: 4
     coderay_bold_every: 10
