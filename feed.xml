@@ -6,7 +6,7 @@ layout: none
 {% assign add_protocol = false %}
 {% if site.url != '' and site.url | split: '/' | first != 'http:' and site.url | split: '/' | first != 'https:' %}
   {% assign site_url = site.url | prepend: 'http:' %}
-  {% add_protocol = true %}
+  {% assign add_protocol = true %}
 {% else %}
   {% assign site_url = site.url %}
 {% endif %}
