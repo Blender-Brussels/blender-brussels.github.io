@@ -4,7 +4,7 @@ logo:             blender-brussels-logo.png
 disqus_shortname:
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:              //blender-brussels.github.io
+url:              {{ site.github.url }} #//blender-brussels.github.io
 
 # Owner/author information
 owner:
