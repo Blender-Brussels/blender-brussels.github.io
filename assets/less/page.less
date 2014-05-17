@@ -359,12 +359,17 @@ span + .entry-title {
 		.clearfix();
 	}
 	a > span {
-		float: right;
+        @media @medium {
+			float: right;
+		}
+        @media @large {
+			float: right;
+		}
 	}
 	.entry-date {
 		.font-rem(14);
 		text-transform: uppercase;
-		display: none;
+		// display: none;
 		@media @medium {
 			display: inline;
 		}
