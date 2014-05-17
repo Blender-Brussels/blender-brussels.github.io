@@ -3716,19 +3716,19 @@ span + .entry-title {
 }
 @media only screen and (min-width: 48em) {
   .post-list a > span {
-    float: right;
+    display: inline;
   }
 }
 @media only screen and (min-width: 62.5em) {
   .post-list a > span {
-    float: right;
+    display: inline;
   }
 }
 .post-list .entry-date {
   font-size: 14px;
   font-size: 0.875rem;
   text-transform: uppercase;
-  display: block;
+  display: none;
 }
 @media only screen and (min-width: 48em) {
   .post-list .entry-date {
