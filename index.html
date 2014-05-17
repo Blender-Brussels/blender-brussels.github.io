@@ -5,25 +5,28 @@ description: "Monthly workshops around Python (BPY/BGE) and Blender in Brussels,
 tags: [Blender, BPY, BGE, workshops, Brussels, Belgium, Julien Deswaef, François Zajéga]
 ---
 {% assign future = false %}
+{% assign count = 0 %}
 {% for post in site.posts limit:10 %}
     {% if post.date > site.time %}
         {% assign future = true %}
+        {{ assign count = count | plus: 1 }}
     {% endif %}
 {% endfor %}
 
 {% if future %}
-    <ul class="post-list">
-    {% for post in site.posts limit:10 %}
-        {% if post.date >= site.time %}
-        <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
-        {% endif %}
+<h2>Coming up next…</h2>
+<ul class="post-list">
+    {% for post in site.posts limit:count %}
+    {% if post.date >= site.time %}
+    <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
+    {% endif %}
     {% endfor %}
-    </ul>
+</ul>
 {% endif %}
 
 <h2>You missed…</h2>
 <ul class="post-list">
-{% for post in site.posts limit:10 %}
+{% for post in site.posts limit:count | plus: 5 %}
     {% if post.date < site.time %}
     <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
     {% endif %}
