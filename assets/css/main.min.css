@@ -3675,6 +3675,7 @@ span + .entry-title {
   font-style: italic;
   font-weight: normal;
   color: #7f7f7f;
+  text-align: center;
 }
 .post-list li > a {
   border-bottom-width: 0;
