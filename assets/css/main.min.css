@@ -3716,9 +3716,6 @@ span + .entry-title {
 .post-list li:after {
   clear: both;
 }
-.post-list a > span {
-  float: right;
-}
 @media only screen and (min-width: 48em) {
   .post-list a > span {
     display: inline;
@@ -3734,6 +3731,7 @@ span + .entry-title {
   font-size: 0.875rem;
   text-transform: uppercase;
   display: none;
+  float: right;
 }
 @media only screen and (min-width: 48em) {
   .post-list .entry-date {
