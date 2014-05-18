@@ -3671,6 +3671,8 @@ span + .entry-title {
   border-bottom-style: solid;
 }
 .entry-content h2 {
+  font-family: 'volkhov', serif;
+  font-style: italic;
   font-weight: normal;
   color: #7f7f7f;
 }
