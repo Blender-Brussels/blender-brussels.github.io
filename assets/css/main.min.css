@@ -3716,22 +3716,14 @@ span + .entry-title {
 .post-list li:after {
   clear: both;
 }
-@media only screen and (min-width: 48em) {
-  .post-list a > span {
-    display: inline;
-  }
-}
-@media only screen and (min-width: 62.5em) {
-  .post-list a > span {
-    display: inline;
-  }
+.post-list a > span {
+  float: right;
 }
 .post-list .entry-date {
   font-size: 14px;
   font-size: 0.875rem;
   text-transform: uppercase;
   display: none;
-  float: right;
 }
 @media only screen and (min-width: 48em) {
   .post-list .entry-date {
