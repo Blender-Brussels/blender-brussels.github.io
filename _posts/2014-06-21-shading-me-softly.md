@@ -22,3 +22,6 @@ The workshop is free and open to anyone. No previous knowledge of anything is re
 Please send a mail to _juego [at] requiem4tv . com_ to register a seat.
 
 This event is hosted at [Variable, 80 rue Gallait − Schaerbeek](https://www.openstreetmap.org/way/60317745#map=19/50.86677/4.36900) starting at 10:00 and finishing at 18:00.
+
+/////////////////
+[resource] > http://urfoex.blogspot.be/2013/03/bge-glsl-glsl-shader-repository-addon.html
