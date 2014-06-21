@@ -25,5 +25,5 @@ This event is hosted at [Variable, 80 rue Gallait − Schaerbeek](https://www.op
 
 /////////////////
 [resource] 
-> http://urfoex.blogspot.be/2013/03/bge-glsl-glsl-shader-repository-addon.html
-> http://frankiezafe.org/index.php?id=243
+http://urfoex.blogspot.be/2013/03/bge-glsl-glsl-shader-repository-addon.html
+http://frankiezafe.org/index.php?id=243
