@@ -32,6 +32,8 @@ This event is hosted at [Variable, 80 rue Gallait − Schaerbeek](https://www.op
 
 [http://www.davidcornette.com/glsl/glsl.html](http://www.davidcornette.com/glsl/glsl.html)
 
+[http://devlog-martinsh.blogspot.com.es/search/label/DoF](http://devlog-martinsh.blogspot.com.es/search/label/DoF)
+
 ## result of the day
 
 [https://github.com/Blender-Brussels/bpy-bge-library/tree/master/users/frankiezafe/shaders](https://github.com/Blender-Brussels/bpy-bge-library/tree/master/users/frankiezafe/shaders)
