@@ -36,11 +36,11 @@ links:
     url: /about/
   - title: Activities
     url: /activities/
+  - title: Mailing-list
+    url: http://lurk.org/groups/blender-brussels/
+    external: true
   - title: F/LAT
     url: http://f-lat.org/
-    external: true
-  - title: Variable
-    url: http://variable.constantvzw.org/
     external: true
   - title: BBUG
     url: http://bbug.tuxfamily.org/
