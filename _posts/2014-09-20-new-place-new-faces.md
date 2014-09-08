@@ -30,7 +30,7 @@ So mark down the address: [45, rue du Canal](http://www.openstreetmap.org/#map=1
 
 ### New faces
 
-For this workshop, the overall objective is "new academic year". We want to welcome new participants and refresh the memories of the old ones. 
+For this workshop, the overall objective is "step in, please". We want to welcome new participants and refresh the memories of the old ones. 
 So, since we use Github for our documentation and project sharing, we will give an introduction to the use of Git and how it can benefit Blender users and coders. 
 If you want to push and pull with us, branch and commit or if you would like to try it but were scared to ask, now is the opportunity to fix that and come enjoy with us the practice of creative collaboration.
 
