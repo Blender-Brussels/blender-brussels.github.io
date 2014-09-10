@@ -42,3 +42,6 @@ As always, the workshop is free and open to anyone. No previous knowledge of any
 Since the space is not fully extensible, please send a mail to _juego [at] requiem4tv . com_ to register a seat.
 
 This event is hosted at [F/LAT − 45, rue du Canal − 1000 Brussels](http://www.openstreetmap.org/#map=19/50.85476/4.34986&layers=N) on Saturday 20th September 2014, starting at 10:00 and finishing at 18:00.
+This event is also funded by the [Digital Arts Commission of the Wallonia-Brussels Federation](http://www.arts-numeriques.culture.be/).
+
+
