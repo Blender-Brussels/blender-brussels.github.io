@@ -20,7 +20,7 @@ These series of workshops are part of the [F/LAT.tmp](http://f-lat.org) program.
 
 Since march 2014, this event is funded by the [Digital Arts Commission of the Wallonia-Brussels Federation](http://www.arts-numeriques.culture.be/).
 
-<a href="http://www.arts-numeriques.culture.be/" style="display: block; text-align: center;"><img src="//blender-brussels.github.io/images/FWB_logo.svg" style="height: 5em;"/></a>
+<a href="http://www.arts-numeriques.culture.be/" style="display: block; text-align: center; border-bottom: none;"><img src="//blender-brussels.github.io/images/FWB_logo.svg" style="height: 5em;"/></a>
 
 We also would like to thank [Constant VZW](http://constantvzw.org/site/) and its **Libre Video Lab** for graciously providing their space and time.
 
