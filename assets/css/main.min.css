@@ -3856,4 +3856,5 @@ span + .entry-title {
 }
 .sponsor img {
   height: 2em;
+  margin-top: -0.5em;
 }
