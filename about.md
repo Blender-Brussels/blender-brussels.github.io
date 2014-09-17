@@ -22,6 +22,6 @@ Since march 2014, this event is funded by the [Digital Arts Commission of the Wa
 
 <a href="http://www.arts-numeriques.culture.be/" style="display: block; text-align: center; border-bottom: none;"><img src="//blender-brussels.github.io/images/FWB_logo.svg" style="height: 5em;"/></a>
 
-We also would like to thank [Constant VZW](http://constantvzw.org/site/) and its **Libre Video Lab** for graciously providing their space and time.
+We also would like to thank [Constant VZW](http://constantvzw.org/site/) and its **Libre Video Lab** for graciously providing their space and time between December 2012 and June 2014.
 
 The theme of this website is **So Simple Theme** by [Michael Rose](http://mademistakes).
