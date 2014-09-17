@@ -3854,3 +3854,6 @@ span + .entry-title {
   background-color: #ffffff;
   color: #000000;
 }
+.sponsor {
+  height: 2em;
+}
