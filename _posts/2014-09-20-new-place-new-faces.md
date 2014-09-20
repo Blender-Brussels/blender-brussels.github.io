@@ -52,6 +52,8 @@ First result of the day: a wonderful makehuman export in meshlab!
 
 In the afternoon, Félix and Kevin joined the group. So we made a crash course on the use of Git and how to participate in the documentation of the workshops in Github.
 
+Wendy then closed the workshop with this great video: [Liars - Mess on a Mission](https://www.youtube.com/watch?v=jbrNt-dMDsY). For those who like greenkey, motion tracking and glitch.
+
 
 This event was hosted at [F/LAT − 45, rue du Canal − 1000 Brussels](http://www.openstreetmap.org/#map=19/50.85476/4.34986&layers=N) on Saturday 20th September 2014, starting at 10:00 and finishing at 18:00.
 This event was funded by the [Digital Arts Commission of the Wallonia-Brussels Federation](http://www.arts-numeriques.culture.be/).
