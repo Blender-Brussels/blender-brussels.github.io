@@ -6,7 +6,7 @@ modified:
 category: articles
 tags: [workshop, F/LAT]
 image:
-  feature:
+  feature: makehuman_002.jpeg
   credit:
   creditlink:
 comments: false
