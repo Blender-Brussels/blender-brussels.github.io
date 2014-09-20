@@ -13,7 +13,7 @@ comments: false
 share: true
 ---
 
-After a quiet summer, the Blendre BPY/BGE workshops are back for a new academic year with lots of stuff in their pockets.
+After a quiet summer, the Blender BPY/BGE workshops are back for a new academic year with lots of stuff in their pockets.
 We will introduce new faces and plan to invite personnalities regularly to give something we might call a "master class", of course, around the topic of Python coding in the context of Blender. 
 But we'll keep you informed on this in later posts. Just stay tuned.
 
@@ -41,10 +41,19 @@ As always, the workshop is free and open to anyone. No previous knowledge of any
 
 Since the space is not fully extensible, please send a mail to _juego [at] requiem4tv . com_ to register a seat.
 
+### Report
+
+Wendy joined us in the morning with some questions regarding [MakeHuman](http://www.makehuman.org/) and how to modify the models inside Blender. 
+The idea was to play around with the parameters of of MakeHuman, attach a skeleton to it and import it all in Blender. 
+Then play around with the bones to change the pose of the model, use modifiers to influence the topology and export everything as an .stl file for 3D printing. 
+
 First result of the day: a wonderful makehuman export in meshlab!
 ![Ogre]({{site.url}}/images/makehuman_002.jpeg)
 
-This event is hosted at [F/LAT − 45, rue du Canal − 1000 Brussels](http://www.openstreetmap.org/#map=19/50.85476/4.34986&layers=N) on Saturday 20th September 2014, starting at 10:00 and finishing at 18:00.
-This event is also funded by the [Digital Arts Commission of the Wallonia-Brussels Federation](http://www.arts-numeriques.culture.be/).
+In the afternoon, Félix and Kevin joined the group. So we made a crash course on the use of Git and how to participate in the documentation of the workshops in Github.
+
+
+This event was hosted at [F/LAT − 45, rue du Canal − 1000 Brussels](http://www.openstreetmap.org/#map=19/50.85476/4.34986&layers=N) on Saturday 20th September 2014, starting at 10:00 and finishing at 18:00.
+This event was funded by the [Digital Arts Commission of the Wallonia-Brussels Federation](http://www.arts-numeriques.culture.be/).
 
 
