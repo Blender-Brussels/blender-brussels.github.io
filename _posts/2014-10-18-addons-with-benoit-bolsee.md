@@ -28,9 +28,10 @@ Making addons involves knowing how the Blender interface works. These concepts w
 **The workshops starts at 10:00 and finishes at 18:00.**
 
 The program of the day is:
- 1. Basic theorical introduction
- 2. Dissection of an existing addon
- 3. Individual or collective work on the praticipants projects
+
+1. Basic theorical introduction
+2. Dissection of an existing addon
+3. Individual or collective work on the praticipants projects
  
 You are encouraged to bring with you a little script that you would like to turn into an addon. 
 For those who don't have anything, no worries, there is enough examples and scripts to modify and play around with. 
