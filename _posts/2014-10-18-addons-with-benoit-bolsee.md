@@ -16,11 +16,11 @@ share: true
 **Blender-Brussels is really happy to invite Benoît Bolsée to give a workshop at F/lAT on how to create addons for Blender.**
 
 You may not know Benoît Bolsée, but you'll sure be glad to meet him. He is one of the Blender developpers and has significantly contributed to it over the past years. 
-Benoît has mainly been working on the game engine and is responsible for making it possible to use any type of video as a texture in the BGE. 
+**Benoît has mainly been working on the game engine and is responsible for making it possible to use any type of video as a texture in the BGE.** 
 He has also helped his son, Quentin Bolsée, create ColorCube, one of the first commercial game done with the Blender Game Engine. 
 Benoît has agreed to come to the Blender-Brussels workshop to teach us how to make addons for Blender.
 
-Making addons involves scripting, so a basic knowledge of Python is required. But why would you want to create an addon? 
+Making addons involves scripting, so a basic knowledge of Python is required. **But why would you want to create an addon?** 
 Let's say you've been working for a while on a script to help you with your modelling, texturing, animation or compositing and you'd like to integrate this to the Blender interface. 
 You maybe also would like to distribute it so other people can use it. You might even want to sell it on [Blender Market](http://cgcookiemarkets.com/blender/all-products/category/scripts-and-addons/). 
 Making addons involves knowing how the Blender interface works. These concepts will be introduced by Benoît Bolsée.
@@ -28,9 +28,9 @@ Making addons involves knowing how the Blender interface works. These concepts w
 The workshops starts at 10:00 and finishes at 18:00.
 
 The program of the day is:
- - Basic theorical introduction
- - Dissection of an existing addon
- - Individual or collective work on the praticipants projects
+  - Basic theorical introduction
+  - Dissection of an existing addon
+  - Individual or collective work on the praticipants projects
  
 You are encouraged to bring with you a little script that you would like to turn into an addon. 
 For those who don't have anything, no worries, there is enough examples and scripts to modify and play around with. 
