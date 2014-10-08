@@ -39,7 +39,7 @@ We can pick into the scripts produced during previous Blender-Brussels workshops
 
 The Blender-Brussels workshops are a series of free and open monthly workshops and we do publish anything produced during those session on [Github](https://github.com/blender-brussels) under an open source license.
 
-This event was hosted at [F/LAT − 45, rue du Canal − 1000 Brussels](http://www.openstreetmap.org/#map=19/50.85476/4.34986&layers=N) on Saturday 20th September 2014, starting at 10:00 and finishing at 18:00.
+This event was hosted at [F/LAT − 45, rue du Canal − 1000 Brussels](http://www.openstreetmap.org/#map=19/50.85476/4.34986&layers=N) on Saturday 18th October 2014, starting at 10:00 and finishing at 18:00.
 This event was funded by the [Digital Arts Commission of the Wallonia-Brussels Federation](http://www.arts-numeriques.culture.be/).
 
 
