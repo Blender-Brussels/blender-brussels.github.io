@@ -37,9 +37,14 @@ You are encouraged to bring with you a little script that you would like to turn
 For those who don't have anything, no worries, there is enough examples and scripts to modify and play around with. 
 We can pick into the scripts produced during previous Blender-Brussels workshops and turn some of them into addons.
 
-The Blender-Brussels workshops are a series of free and open monthly workshops and we do publish anything produced during those session on [Github](https://github.com/blender-brussels) under an open source license.
+The Blender-Brussels workshops are a series of free and open monthly workshops and we do publish anything produced during those sessions on [Github](https://github.com/blender-brussels) under an open source license.
 
-This event was hosted at [F/LAT − 45, rue du Canal − 1000 Brussels](http://www.openstreetmap.org/#map=19/50.85476/4.34986&layers=N) on Saturday 18th October 2014, starting at 10:00 and finishing at 18:00.
-This event was funded by the [Digital Arts Commission of the Wallonia-Brussels Federation](http://www.arts-numeriques.culture.be/).
+This event is part of the [Code Week 2014](http://events.codeweek.eu/view/2148/creation-addons-with-benoit-bolsee/), an all around Europe series of events bringing people together by learning to code.
+
+<a href="http://events.codeweek.eu/view/2148/creation-addons-with-benoit-bolsee/" style="display: block; text-align: center; border-bottom: none;"><img src="//blender-brussels.github.io/images/codeweekeu_logo.svg" /></a>
+
+This event is hosted at [F/LAT − 45, rue du Canal − 1000 Brussels](http://www.openstreetmap.org/#map=19/50.85476/4.34986&layers=N) on Saturday 18th October 2014, starting at 10:00 and finishing at 18:00.
+
+This event is also funded by the [Digital Arts Commission of the Wallonia-Brussels Federation](http://www.arts-numeriques.culture.be/).
 
 
