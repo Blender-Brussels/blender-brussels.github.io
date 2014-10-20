@@ -43,10 +43,11 @@ This event was part of the [Code Week 2014](http://events.codeweek.eu/view/2148/
 
 <a href="http://events.codeweek.eu/view/2148/creation-addons-with-benoit-bolsee/" style="display: block; text-align: center; border-bottom: none;"><img src="//blender-brussels.github.io/images/codeweekeu_logo.svg" /></a>
 
-<a id="#report" />
-### Report from the workshop
+<a id="report" />
+Report from the workshop
+------------------------
 
-![Report from the workshop](images/2014-10.jpg)
+![Report from the workshop]({{site.url}}/images/2014-10.jpg)
 
 This session was an intense one. Benoît gave a lengthy and detailed dissection of the basic addon template. This introduced new concepts and Python tricks unknown to the crowd present there. It also gave an overview of the amount of information that is available through the Blender API documentation website.
 
