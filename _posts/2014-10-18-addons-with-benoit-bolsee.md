@@ -43,7 +43,7 @@ This event was part of the [Code Week 2014](http://events.codeweek.eu/view/2148/
 
 <a href="http://events.codeweek.eu/view/2148/creation-addons-with-benoit-bolsee/" style="display: block; text-align: center; border-bottom: none;"><img src="//blender-brussels.github.io/images/codeweekeu_logo.svg" /></a>
 
-<a name="report"><h3>Report from the workshop</h3></a>
+<h3><a name="report">Report from the workshop</a></h3>
 
 ![Report from the workshop]({{site.url}}/images/2014-10.jpeg)
 
