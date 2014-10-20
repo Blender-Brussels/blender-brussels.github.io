@@ -39,12 +39,29 @@ We can pick into the scripts produced during previous Blender-Brussels workshops
 
 The Blender-Brussels workshops are a series of free and open monthly workshops and we do publish anything produced during those sessions on [Github](https://github.com/blender-brussels) under an open source license.
 
-This event is part of the [Code Week 2014](http://events.codeweek.eu/view/2148/creation-addons-with-benoit-bolsee/), an all around Europe series of events bringing people together by learning to code.
+This event was part of the [Code Week 2014](http://events.codeweek.eu/view/2148/creation-addons-with-benoit-bolsee/), an all around Europe series of events bringing people together by learning to code.
 
 <a href="http://events.codeweek.eu/view/2148/creation-addons-with-benoit-bolsee/" style="display: block; text-align: center; border-bottom: none;"><img src="//blender-brussels.github.io/images/codeweekeu_logo.svg" /></a>
 
-This event is hosted at [F/LAT − 45, rue du Canal − 1000 Brussels](http://www.openstreetmap.org/#map=19/50.85476/4.34986&layers=N) on Saturday 18th October 2014, starting at 10:00 and finishing at 18:00.
+<a id="#report" />
+### Report from the workshop
 
-This event is also funded by the [Digital Arts Commission of the Wallonia-Brussels Federation](http://www.arts-numeriques.culture.be/).
+![Report from the workshop](images/2014-10.jpg)
+
+This session was an intense one. Benoît gave a lengthy and detailed dissection of the basic addon template. This introduced new concepts and Python tricks unknown to the crowd present there. It also gave an overview of the amount of information that is available through the Blender API documentation website.
+
+Usually, we try to finish a small project in the afternoon, but due to the complexity of the subject and the different approaches brought by the participants, the afternoon was spent in back and forth discussions between Benoît and each of the participants, answering questions and trying to overcome problems as they appeared.
+
+Some were working on making generic UI elements for the game engine, others worked on UI improvements to manipulate bones and rigged models. There has been some reasearch also on how to make an addon to automatically upload renders on tumblr or youtube using their APIs. And many other expermients. 
+
+Overall, everyone was pleased with the workshop and the intensity of it. This gave a lot of ideas and brought talks about organizing another one with Benoît some other time.
+
+Pictures of the event have been posted [here](http://f.xuv.be/index.php?/category/6).
+
+
+
+This event was hosted at [F/LAT − 45, rue du Canal − 1000 Brussels](http://www.openstreetmap.org/#map=19/50.85476/4.34986&layers=N) on Saturday 18th October 2014, starting at 10:00 and finishing at 18:00.
+
+This event was also funded by the [Digital Arts Commission of the Wallonia-Brussels Federation](http://www.arts-numeriques.culture.be/).
 
 
