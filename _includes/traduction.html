@@ -1,0 +1,12 @@
+{% if page.lang == "en" %}
+{% assign traduction=site.posts | where:"date", page.date | where:"lang", "fr" %}
+{% for fr in traduction %}
+<span class="traduction">Cette page existe aussi en <a href="{{ fr.url }}">français</a></span>
+{% endfor %}
+{% endif %}
+{% if page.lang == "fr" %}
+{% assign traduction=site.posts | where:"date", page.date | where:"lang", "en" %}
+{% for en in traduction %}
+<span class="traduction">This page is also available in <a href="{{ en.url }}">english</a></span>
+{% endfor %}
+{% endif %}

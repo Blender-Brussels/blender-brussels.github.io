@@ -2,11 +2,12 @@
 layout: page
 title: Latest activities
 description: "Monthly workshops around Python (BPY/BGE) and Blender in Brussels, Belgium"
-tags: [Blender, BPY, BGE, workshops, Brussels, Belgium, Julien Deswaef, François Zajéga]
+tags: [Blender, BPY, BGE, workshops, Brussels, Belgium, Julien Deswaef, François Zajéga, F/LAT, Bruxelles, FWB, Fédération, Wallonie, BBUG]
 ---
 {% assign future = false %}
 {% assign count = 0 %}
-{% for post in site.posts limit:10 %}
+{% assign posts=site.posts | where:"lang","en" %}
+{% for post in posts limit:10 %}
     {% if post.date > site.time %}
         {% assign future = true %}
         {% assign count = count | plus: 1 %}
@@ -27,7 +28,7 @@ tags: [Blender, BPY, BGE, workshops, Brussels, Belgium, Julien Deswaef, Françoi
 {% endif %}
 <ul class="post-list">
 {% assign count = count | plus: 5 %}
-{% for post in site.posts limit:count %}
+{% for post in posts limit:count %}
     {% if post.date < site.time %}
     <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
     {% endif %}

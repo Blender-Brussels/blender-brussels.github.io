@@ -3858,3 +3858,8 @@ span + .entry-title {
   height: 2em;
   margin-top: -0.5em;
 }
+.traduction {
+  font-style: italic;
+  color: #666;
+  font-size: .9em;
+}
