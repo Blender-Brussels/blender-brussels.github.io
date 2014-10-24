@@ -13,14 +13,14 @@ comments: false
 share: true
 ---
 
-**Blender-Brussels is pleased to invite [Olivier Meunier](http://ogeem.be) ([Olm-e]((http://identi.ca/o1me))) to give a workshop at iMAL on how to install and play around with the Oculus Rift Virtual Reality Headset in Blender.**
+**Blender-Brussels is pleased to invite [Olivier Meunier](http://ogeem.be) ([Olm-e](http://identi.ca/o1me)) to give a workshop at iMAL on how to install and play around with the Oculus Rift Virtual Reality Headset in Blender.**
 
 The Blender-Brussels is a series of monthly free and open workshops dedicated to Python creative coding using Blender. 
 Started by [François Zajéga](http://frankiezafe.org) and [Julien Deswaef](http://xuv.be) in 2012, these have become a regular meeting point for anyone interested in experimenting with code in a full featured 3D creation application. 
 These workshops are not organized as a regular class room but as a space where the sharing of knowledge and communal exchange of ideas is the way to learn. 
 As a result of this practices, all exercises and documentation produced during the workshop are shared online under an open source license.
 
-For this workshop, Blender-Brussels is pleased to invite [Olivier Meunier](http://ogeem.be) ([Olm-e]((http://identi.ca/o1me))) to share his experience with the Oculus Rift and Blender. 
+For this workshop, Blender-Brussels is pleased to invite [Olivier Meunier](http://ogeem.be) ([Olm-e](http://identi.ca/o1me)) to share his experience with the Oculus Rift and Blender. 
 Olivier is a new media artist and experienced Blender user. He has recently used the Oculus VR headset for interior architecture visualization and will guide us through the installation and configuration process on a Gnu/Linux machine. 
 We will have 4 Oculus (DK1 & DK2) available and 4 desktop Linux machines for the tests.
 
