@@ -43,7 +43,7 @@ Ne venez donc pas avec des projets que vous ne désirez pas partager avec les au
 
 Les participants doivent avoir des notions de base en 3D et en programmation. 
 Même si nous fournissons quelques machines sous Gnu/Linux pour tester les Oculus, nous vous demandons d'emporter votre propre laptop, peu importe le système que vous utilisez.  
-Veillez à installer la dernière version de Blenedr (2.72) avant de venir, histoire de gagner un peu de temps.  
+Veillez, au préalable, à installer la dernière version de Blender (2.72), histoire de gagner un peu de temps.  
 
 Comme nous attendons un grand nombre de participants et que l'espace et le matériel est limité, nous vous demandons exceptionnelement de vous inscrire avec les informations suivantes :
 
@@ -51,7 +51,7 @@ Comme nous attendons un grand nombre de participants et que l'espace et le maté
 2. Dites nous brièvement pourquoi vous désirez participer à cet atelier.
 3. Possédez-vous déjà un Oculus?
 
-Et envoyez ce mail à juego [at] requiem4tv [dot] com
+Et envoyez ça par mail à juego [at] requiem4tv [dot] com
 
 Nous regarderons attentivement toutes vos propositions et vous tiendrons informés. 
 
