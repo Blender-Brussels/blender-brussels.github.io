@@ -6,7 +6,7 @@ search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
 
 # Production 
- url:              //blender-brussels.github.io
+url:              //blender-brussels.github.io
 
 # Testing locally
 #url:              http://localhost:4000
