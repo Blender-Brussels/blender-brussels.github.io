@@ -13,7 +13,7 @@ comments: false
 share: true
 ---
 
-**Blender-Brussels est heureux d'inviter [Olivier Meunier](http://ogeem.be) ([Olm-e](http://identi.ca/o1me)) pour un atelier qui se déroulera chez iMAL sur l'installation et la configuration de l'Oculus Rift Virtual Reality Headset dans Blender.**
+**Blender-Brussels a le plaisir d'inviter [Olivier Meunier](http://ogeem.be) ([Olm-e](http://identi.ca/o1me)) pour un atelier qui se déroulera chez iMAL sur l'installation et la configuration de l'Oculus Rift Virtual Reality Headset dans Blender.**
 
 Les Blender-Brussels sont une série d'ateliers mensuels, gratuits et ouverts à tous, dédiés à la programmation Python dans Blender.
 Démarrés en 2012 par [François Zajéga](http://frankiezafe.org) et [Julien Deswaef](http://xuv.be), ces ateliers sont devenus un rendez-vous régulier pour toute personne intéressée par l'expérimentation avec du code dans le contexte d'un logiciel de création 3D professionel.
