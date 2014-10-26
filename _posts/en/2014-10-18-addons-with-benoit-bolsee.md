@@ -41,7 +41,7 @@ The Blender-Brussels workshops are a series of free and open monthly workshops a
 
 This event was part of the [Code Week 2014](http://events.codeweek.eu/view/2148/creation-addons-with-benoit-bolsee/), an all around Europe series of events bringing people together by learning to code.
 
-<a href="http://events.codeweek.eu/view/2148/creation-addons-with-benoit-bolsee/" style="display: block; text-align: center; border-bottom: none;"><img src="//blender-brussels.github.io/images/codeweekeu_logo.svg" /></a>
+<a href="http://events.codeweek.eu/view/2148/creation-addons-with-benoit-bolsee/" style="display: block; text-align: center; border-bottom: none;"><img src="//blender-brussels.github.io/images/non-free/codeweekeu_logo.svg" /></a>
 
 <h3><a name="report">Report from the workshop</a></h3>
 
