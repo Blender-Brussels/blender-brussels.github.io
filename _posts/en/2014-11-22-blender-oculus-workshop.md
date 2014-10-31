@@ -6,9 +6,9 @@ modified:
 category: articles
 tags: [workshop, masterclass, iMAL]
 image:
-  feature: 
-  credit:
-  creditlink:
+  feature: blender-oculus.jpg
+  credit:  Maurizio Pesce − CC-BY 2.0
+  creditlink: https://www.flickr.com/photos/pestoverde/15021269270
 comments: false
 share: true
 ---
