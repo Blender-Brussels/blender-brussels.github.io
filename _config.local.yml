@@ -5,8 +5,8 @@ disqus_shortname:
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
 
-# Production 
-url:              //blender-brussels.github.io
+# For local tests
+url:              http://0.0.0.0:4000
 
 # Owner/author information
 owner:
