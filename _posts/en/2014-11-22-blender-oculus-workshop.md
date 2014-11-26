@@ -55,6 +55,19 @@ And send all this by email to juego [at] requiem4tv [dot] com
 
 We will carefully review your application and keep you informed.
 
+<h3>Report</h3>
+
+A great number of people applied, with so many different backgrounds and approaches. Thanks all for coming and making this a great day.
+
+![Olivier Meunier leading the crowd]({{site.url}}/images/blender-oculus-olivier-meunier-02.JPG)
+
+Notes from the day can be found on the dedicated [piratepad](http://piratepad.be/p/blender-oculus).  
+Files used and improved during the day are available on the [dedicated repository](https://github.com/Blender-Brussels/blender-oculus-workshop). You will find there an updated OSC script, a basic blend file to start interacting with the Oculus, plus a backup copy of the pad. It's all there for you to keep on improving.
+
+![Olivier Meunier leading the crowd]({{site.url}}/images/blender-oculus-olivier-meunier-01.JPG)
+
+More photos from the workshop are available in [this gallery](http://f.xuv.be/index.php?/category/7).
+
 <h3>Sponsors</h3>
 We could not have organized this workshop without their support.
 
