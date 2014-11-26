@@ -20,6 +20,11 @@ sudo gem install jekyll-mentions
 
 `jekyll-mentions` is a plugin used to display github usernames as links. Not really necessary, but activated on this website.
 
+How to run it locally while editing the pages:  
+`jekyll serve -w --config _config.local.yml`
+
+When you're done, push it back to Github for publishing changes to the world.
+
 Note that Blender-Brussels communication is mainly done in english. But some articles are translated to french. 
 The multi-lingual configuration has been inspired by [Sylvain Durand](http://sylvain.durand.tf/making-jekyll-multilingual/).
 
