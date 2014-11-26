@@ -87,7 +87,7 @@ This event is hosted at:
 <div style="clear: both;"></div>
 Blender-Brussels is funded by:
 
-<div style="width: 20%; margin: 0 2% 2% 0; text-align: center; float: left;"><a href="http://www.fishingcactus.com/"><img src="{{site.url}}/images/non-free/FWB_logo.svg" style="width: 100%;" alt="FWB"></a></div> 
+<div style="width: 20%; margin: 0 2% 2% 0; text-align: center; float: left;"><a href="http://www.arts-numeriques.culture.be/"><img src="{{site.url}}/images/non-free/FWB_logo.svg" style="width: 100%;" alt="FWB"></a></div> 
 [Digital Arts Commission of the Wallonia-Brussels Federation](http://www.arts-numeriques.culture.be/) since mars 2013.
 
 <div style="clear: both;"></div>

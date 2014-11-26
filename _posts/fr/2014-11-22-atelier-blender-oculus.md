@@ -74,7 +74,7 @@ Cet événement est hébergé chez :
 <div style="clear: both;"></div>
 Blender-Brussels est financé par :
 
-<div style="width: 20%; margin: 0 2% 2% 0; text-align: center; float: left;"><a href="http://www.fishingcactus.com/"><img src="{{site.url}}/images/non-free/FWB_logo.svg" style="width: 100%;" alt="FWB"></a></div> 
+<div style="width: 20%; margin: 0 2% 2% 0; text-align: center; float: left;"><a href="http://www.arts-numeriques.culture.be/"><img src="{{site.url}}/images/non-free/FWB_logo.svg" style="width: 100%;" alt="FWB"></a></div> 
 [la Commission Arts Numériques de la Fédération Wallonie Bruxelles](http://www.arts-numeriques.culture.be/) depuis mars 2013.
 
 <div style="clear: both;"></div>
