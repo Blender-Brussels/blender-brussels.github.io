@@ -17,7 +17,7 @@ tags: [Blender, BPY, BGE, workshops, Brussels, Belgium, Julien Deswaef, Françoi
 {% if future %}
 <h2>Coming up next…</h2>
 <ul class="post-list">
-    {% for post in site.posts limit:count %}
+    {% for post in posts limit:count %}
     {% if post.date >= site.time %}
     <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
     {% endif %}
