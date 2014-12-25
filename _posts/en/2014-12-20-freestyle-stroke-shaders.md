@@ -26,6 +26,15 @@ Additionally it could solve a real problem for some people, or lead to other cre
 
 **Sounds interesting to you?** Then please subscribe to book a seat to this workshop by sending an email to juego (at) requiem4tv (dot) com. And yes, subscription is mandatory. 
 
+### Report
+
+Folkert started the workshop by showing us the Blender uaddon he has been working on: the SVG exporter for Freestyle. 
+This addon allows in a simplified manner to export Freestyle defined line styles in an SVG file. 
+It also permits to export animations, which is a great and never before seen feature.
+
+![An SVG animation rendered with the Freestyle SVG exporter]({{site.url}}/images/cube.svg)    
+
+
 The Blender-Brussels is a series of monthly free and open workshops dedicated to Python creative coding using Blender. 
 Started by [François Zajéga](http://frankiezafe.org) and [Julien Deswaef](http://xuv.be) in 2012, these have become a regular meeting point for anyone interested in experimenting with code. It works as a communal space to exchange ideas and share knowledge as a way to learn. 
 All results of these practices − exercises and documentation produced during the workshop − are shared online under an open source license.
