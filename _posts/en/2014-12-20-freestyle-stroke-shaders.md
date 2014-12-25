@@ -28,12 +28,25 @@ Additionally it could solve a real problem for some people, or lead to other cre
 
 ### Report
 
-Folkert started the workshop by showing us the Blender uaddon he has been working on: the SVG exporter for Freestyle. 
+Folkert started the workshop by showing us the Blender addon he has been working on: the SVG exporter for Freestyle. 
 This addon allows in a simplified manner to export Freestyle defined line styles in an SVG file. 
 It also permits to export animations, which is a great and never before seen feature.
 
 ![An SVG animation rendered with the Freestyle SVG exporter]({{site.url}}/images/cube.svg)    
 
+After playing around with it, he introduced us to the wonders of the Freestyle Python API. 
+Some of us then started playing with it while others continued on experimenting with the SVG exporter. 
+This lead to interesting discussions about the possibilities of both approaches and ended up in some debugging or more like feature requests regarding the SVG exporter.
+
+As [Folkert](https://twitter.com/flokkievids/status/547030694221053953) wraps it up:
+
+<blockquote class="twitter-tweet" lang="en"><p>I had some very rewarding artist-developer conversations at Blender-Brussels. Now back to fixing found bugs... Thanks <a href="https://twitter.com/xuv">@xuv</a> for organizing</p>&mdash; Folkert de Vries (@flokkievids) <a href="https://twitter.com/flokkievids/status/547030694221053953">December 22, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Here's some pictures of that day:
+
+![Folkert & Olivier]({{site.url}}/images/)  
+![François paying attention to Folkert's presentation]({{site.url/images/}})
 
 The Blender-Brussels is a series of monthly free and open workshops dedicated to Python creative coding using Blender. 
 Started by [François Zajéga](http://frankiezafe.org) and [Julien Deswaef](http://xuv.be) in 2012, these have become a regular meeting point for anyone interested in experimenting with code. It works as a communal space to exchange ideas and share knowledge as a way to learn. 
