@@ -43,10 +43,12 @@ As [Folkert](https://twitter.com/flokkievids/status/547030694221053953) wraps it
 <blockquote class="twitter-tweet" lang="en"><p>I had some very rewarding artist-developer conversations at Blender-Brussels. Now back to fixing found bugs... Thanks <a href="https://twitter.com/xuv">@xuv</a> for organizing</p>&mdash; Folkert de Vries (@flokkievids) <a href="https://twitter.com/flokkievids/status/547030694221053953">December 22, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<!--
 Here's some pictures of that day:
 
 ![Folkert & Olivier]({{site.url}}/images/)  
-![François paying attention to Folkert's presentation]({{site.url/images/}})
+![François paying attention to Folkert's presentation]({{site.url}}/images/)
+-->
 
 The Blender-Brussels is a series of monthly free and open workshops dedicated to Python creative coding using Blender. 
 Started by [François Zajéga](http://frankiezafe.org) and [Julien Deswaef](http://xuv.be) in 2012, these have become a regular meeting point for anyone interested in experimenting with code. It works as a communal space to exchange ideas and share knowledge as a way to learn. 
