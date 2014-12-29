@@ -15,8 +15,11 @@ share: true
 
 **After 3 masterclasses in a row, Blender-Brussels is returning to more usual kind of workshop, exploring together Blender features related to code, from the 9th floor of [F/LAT](http://f-lat.org).**
 
-With the latest developpment of the [Blend4Web](https://www.blend4web.com/) framework, we thought it might be interesting to gather a whole day to explore the different tools and scripts offered by the SDK.  
-This could also be an occasion for web developpers and 3D artists to gather around and work on some Javascript and Python code to join both worlds.
+With the latest developpment of the [Blend4Web](https://www.blend4web.com/) framework, we thought it might be interesting to gather a whole day to explore the different tools and scripts offered by the SDK.
+As you might already know, Blend4web is a tool (closely integrated with Blender) thats permits to export 3D scenes to WebGL format, to be displayed in a browser. 
+Blend4Web comes with a set of tools for adding interactivity to these 3D scenes that permit to create rich audio-visal applications. 
+
+So this Blender-Brussels workshop could be an opportunity for web developpers and 3D artists to gather around and work on some Javascript and Python code to join both worlds.
 
 As always, this is not a regular class, but more an open space for exploration, with a dedicated theme. So expect discussions, discoveries and knowledge sharing.
 
