@@ -29,10 +29,10 @@ After a 4 hours struggle with the javascript API of Blend4Web, we finally succee
 
 
 ![Baked animation and custom keys]({{site.url}}/images/b4w/armature_b4w.jpeg)
-by Vincent Gires || [View online]({site.url}/docs/b4w/armature_b4w/index.html) || [Download archive]({site.url}/docs/b4w/armature_b4w.tar.gz)
+by Vincent Gires -- [View online]({{site.url}}/docs/b4w/armature_b4w/index.html) -- [Download archive]({{site.url}}/docs/b4w/armature_b4w.tar.gz)
 
 ![HMTL controls over animation]({{site.url}}/images/b4w/nlas.jpeg)
-by François Zajéga || [View online]({site.url}/docs/b4w/nlas/index.html) || [Download archive]({site.url}/docs/b4w/nlas.zip)
+by François Zajéga -- [View online]({{site.url}}/docs/b4w/nlas/index.html) -- [Download archive]({{site.url}}/docs/b4w/nlas.zip)
 
 
 **Sounds interesting to you?** Then please send a mail to juego (at) requiem4tv (dot) com to book a seat. 
