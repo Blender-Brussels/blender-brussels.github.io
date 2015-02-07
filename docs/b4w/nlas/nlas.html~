@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+    <script type="text/javascript" src="b4w.min.js"></script>
+    <script type="text/javascript" src="app.js"></script>
+    <script type="text/javascript" src="nlas.js"></script>
+
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+
+</head>
+<body>
+<div style="position: absolute; left: 0; bottom: 0; z-index: 1000; background: #EEE; opacity: 0.9; padding: 10px; font-family: sans-serif; font-size: 10px;">
+	trigger cube animations: <br/>
+	<a id="bouton_mouvement" href="#">mouvement</a> <br/>
+	<a id="bouton_cube_rotation" href="#">cube_rotation</a> <br/>
+	<a id="bouton_cubestop" href="#">cube stop</a> <br/><br/>
+	trigger sphere animations: <br/>
+	<a id="bouton_mvtsphere" href="#">mvtsphere</a> <br/>
+	<a id="bouton_mvtsphere2" href="#">mvtsphere2</a> <br/>
+	<a id="bouton_spherestop" href="#">sphere stop</a> <br/><br/>
+	<span id="mousepos"></span><br/><br/>
+	<span id="info"></span>
+</div>
+<div id="canvas3d"></div>
+</body>
+</html>

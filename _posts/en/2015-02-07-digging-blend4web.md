@@ -23,6 +23,18 @@ So this Blender-Brussels workshop could be an opportunity for web developpers an
 
 As always, this is not a regular class, but more an open space for exploration, with a dedicated theme. So expect discussions, discoveries and knowledge sharing.
 
+**Report**
+After a 4 hours struggle with the javascript API of Blend4Web, we finally succeed to understand the beast!
+
+![Baked animation and custom keys]({{site.url}}/images/b4w/armature_b4w.jpeg)
+[View online]({site.url}/docs/b4w/armature_b4w/index.html)
+[Download archive]({site.url}/docs/b4w/armature_b4w.tar.gz)
+
+![HMTL controls over animation]({{site.url}}/images/b4w/nlas.jpeg)
+[View online]({site.url}/docs/b4w/nlas/index.html)
+[Download archive]({site.url}/docs/b4w/nlas.zip)
+
+
 **Sounds interesting to you?** Then please send a mail to juego (at) requiem4tv (dot) com to book a seat. 
 
 The Blender-Brussels is a series of monthly free and open workshops dedicated to Python creative coding using Blender. 
