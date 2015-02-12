@@ -3,10 +3,22 @@ Blender-Brussels
 
 ![Blender-Brussels logo](https://raw.githubusercontent.com/Blender-Brussels/blender-brussels.github.io/master/images/blender-brussels-logo.png)
 
-Source repository for the website of [Blender-Brussels](http://blender-brussels.github.io)
+The **Blender-Brussels** − also known as **Blender BPY/BGE workshops** or **#bpybgebxl** − are a series of monthly work sessions organized by [Julien Deswaef](http://xuv.be) (@xuv) and [François Zajéga](http://frankiezafe.org) (@frankiezafe) with the aim of providing a regular gathering and knowledge sharing space for artists and developpers interested in Python scripting in the context of [Blender](http://blender.org).
 
-How to use
-----------
+This is the repository for jekyll files necessary to build the website of [Blender-Brussels](http://blender-brussels.github.io)
+
+How to announce a new workshop
+------------------------------
+
+Create a new html document under the _post/ folder. If you plan to write in english, use the en/ subfolder, fr/ for french. The best way to start is by copying an existing articel and change the relevant content.
+
+After you've tested your page (see below), commit your changes and push back on this server.
+
+Don't forget to also announce it on the [mailing list](http://lurk.org/groups/blender-brussels/), the [BBUg forums](http://bbug.tuxfamily.org), Twitter, Facebook or any other place you see fit.   
+
+
+How to edit the website
+-----------------------
 
 If you plan to make big changes to this website, you better have Jekyll installed locally, so you don't waist time pushing every change to Github or break the actual site.
 
