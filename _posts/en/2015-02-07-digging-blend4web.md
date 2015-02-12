@@ -4,7 +4,7 @@ title: Digging Blend4Web
 description: "Exploring the possibilities offered by the Blend4Web addon"
 modified:
 category: articles
-tags: [workshop, masterclass, F/LAT]
+tags: [workshop, F/LAT]
 image:
   feature: 
   credit: 
