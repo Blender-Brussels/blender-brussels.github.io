@@ -17,7 +17,7 @@ share: true
 
 For this, we won't start from scratch but will use the [experimental-surface](https://github.com/inconvergent/experimental-surface) script by **Anders Hoff** (@inconvergent) as an object that we will study during the day. 
 For those with less python knowledge, we will just experiment by running the script as it is and try to come up with different forms and outcomes. 
-For the more advanced Python users, we will fave a deeper look at the script inner workings, get inspired by it and integrate some of its concepts into other mesh creation experiments.
+For the more advanced Python users, we will take a deeper look at the script inner workings, get inspired by it and integrate some of its concepts into other mesh creation experiments.
   
 
 **Sounds interesting to you?** Then please send a mail to juego (at) requiem4tv (dot) com to book a seat. 
