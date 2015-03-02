@@ -35,10 +35,12 @@ where *normal* is a copy of the face normal.
 
 The script we used is [available here](http://frankiezafe.org/fileadmin/sites/frankiezafe/labo/bpybge/generative/generative.py).
 
-After palying with it a bit, we end up with these models, based on primitives such as cube and cylinder.	
+After palying with it a bit, we end up with these models, based on primitives such as cube and cylinder.
+
 ![Generative meshes examples]({{site.url}}/images/generative_meshes.jpg)
 
 Thanks to [blend4web](https://www.blend4web.com/en/), you can see them in 3D:
+
 + [model 01](http://frankiezafe.org/fileadmin/sites/frankiezafe/labo/bpybge/generative/export/generative_01.html)
 + [model 02](http://frankiezafe.org/fileadmin/sites/frankiezafe/labo/bpybge/generative/export/generative_02.html)
 + [model 03](http://frankiezafe.org/fileadmin/sites/frankiezafe/labo/bpybge/generative/export/generative_03.html)
