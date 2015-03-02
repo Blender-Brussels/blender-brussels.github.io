@@ -17,9 +17,10 @@ share: true
 
 *resume of the day*
 
-We started the day by trying to run the project of [anders hoff](https://twitter.com/inconvergent). His projects requires the python library [scipy](http://www.scipy.org/) to be properly installed. Because blender uses his own version of python, the library have to be copied in the blender folders. To do so, we tried the procedure explained in the last comment of this [discussion](http://blender.stackexchange.com/questions/5287/using-3rd-party-python-modules). Unfortunately, it didn't work out...
+We started the day by trying to run the project of [anders hoff](https://twitter.com/inconvergent). His project requires the python library [scipy](http://www.scipy.org/) to be properly installed. Because blender uses his own version of python, the library have to be copied in the blender folders. To do so, we tried the procedure explained in the last comment of this [discussion](http://blender.stackexchange.com/questions/5287/using-3rd-party-python-modules). Unfortunately, it didn't work out, due to a DLL not found issue on windows...
 
 To avoid total frustration, we tried a more direct and low-level approach, based on a tiny sketch found in a [Shigeto Maeda pdf](http://download.blender.org/documentation/bc2013/shigeto_maeda_GMP_Supplement.pdf), on page 3.
+
 ![GShigeto Maeda procedure]({{site.url}}/images/shigeto_maeda_process.jpg)
 
 It has the advantage of being feasable with built-in blender mesh methods.
