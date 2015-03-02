@@ -13,6 +13,42 @@ comments: false
 share: true
 ---
 
+**Results of the workshop**
+
+*resume of the day*
+
+We started the day by trying to run the project of [anders hoff](https://twitter.com/inconvergent). His projects requires the python library [scipy](http://www.scipy.org/) to be properly installed. Because blender uses his own version of python, the library have to be copied in the blender folders. To do so, we tried the procedure explained in the last comment of this [discussion](http://blender.stackexchange.com/questions/5287/using-3rd-party-python-modules). Unfortunately, it didn't work out...
+
+To avoid total frustration, we tried a more direct and low-level approach, based on a tiny sketch found in a [Shigeto Maeda pdf](http://download.blender.org/documentation/bc2013/shigeto_maeda_GMP_Supplement.pdf), on page 3.
+![GShigeto Maeda procedure]({{site.url}}/images/shigeto_maeda_process.jpg)
+
+It has the advantage of being feasable with built-in blender mesh methods.
+
+The 3 main calls are:
+
+	bpy.ops.mesh.extrude_region_move( TRANSFORM_OT_translate={ "value": ( normal.x * m, normal.y * m, normal.z * m ) } )
+	bpy.ops.transform.resize( value=( 0.5, 0.5, 0.5 ), constraint_orientation='LOCAL' )
+	bpy.ops.transform.rotate( value= -0.11 * j, axis=( normal.x, normal.y, normal.z ), constraint_orientation='LOCAL' )
+
+where *normal* is a copy of the face normal.
+
+The script we used is [available here](http://frankiezafe.org/fileadmin/sites/frankiezafe/labo/bpybge/generative/generative.py).
+
+After palying with it a bit, we end up with these models, based on primitives such as cube and cylinder.	
+![Generative meshes examples]({{site.url}}/images/generative_meshes.jpg)
+
+Thanks to [blend4web](https://www.blend4web.com/en/), you can see them in 3D:
++ [model 01](http://frankiezafe.org/fileadmin/sites/frankiezafe/labo/bpybge/generative/export/generative_01.html)
++ [model 02](http://frankiezafe.org/fileadmin/sites/frankiezafe/labo/bpybge/generative/export/generative_02.html)
++ [model 03](http://frankiezafe.org/fileadmin/sites/frankiezafe/labo/bpybge/generative/export/generative_03.html)
++ [model 04](http://frankiezafe.org/fileadmin/sites/frankiezafe/labo/bpybge/generative/export/generative_04.html)
++ [model 05](http://frankiezafe.org/fileadmin/sites/frankiezafe/labo/bpybge/generative/export/generative_05.html)
++ [model 06](http://frankiezafe.org/fileadmin/sites/frankiezafe/labo/bpybge/generative/export/generative_06.html)
++ [model 07](http://frankiezafe.org/fileadmin/sites/frankiezafe/labo/bpybge/generative/export/generative_07.html)
+
+You can also download the [blender project including exports and python script here](http://frankiezafe.org/fileadmin/sites/frankiezafe/labo/bpybge/generative/generative.zip).
+
+
 **This workshop is dedicated to exploring generative 3D and mesh modifications using Python scripting.**
 
 For this, we won't start from scratch but will use the [experimental-surface](https://github.com/inconvergent/experimental-surface) script by **Anders Hoff** (@inconvergent) as an object that we will study during the day. 
