@@ -15,7 +15,7 @@ share: true
 
 **Results of the workshop**
 
-*resume of the day*
+***resume of the day***
 
 We started the day by trying to run the project of [anders hoff](https://twitter.com/inconvergent). His project requires the python library [scipy](http://www.scipy.org/) to be properly installed. Because blender uses his own version of python, the library have to be copied in the blender folders. To do so, we tried the procedure explained in the last comment of this [discussion](http://blender.stackexchange.com/questions/5287/using-3rd-party-python-modules). Unfortunately, it didn't work out, due to a DLL not found issue on windows...
 
@@ -50,6 +50,16 @@ Thanks to [blend4web](https://www.blend4web.com/en/), you can see them in 3D:
 + [model 07](http://frankiezafe.org/fileadmin/sites/frankiezafe/labo/bpybge/generative/export/generative_07.html)
 
 You can also download the [blender project including exports and python script here](http://frankiezafe.org/fileadmin/sites/frankiezafe/labo/bpybge/generative/generative.zip).
+
+***how to***
+
+To use the script:
+
++ make sure you have 1 object selected (not tested if 2 models are selected)
++ go to *edit mode* and deselect all the vertices, edges and faces (by pressing 'A' key)
++ go back to *object mode*
++ go to panel *text* and press run script
++ the process might take a while to finish, and consume a lot of CPU and RAM if you go wild... Check your computer status during process :)
 
 
 **This workshop is dedicated to exploring generative 3D and mesh modifications using Python scripting.**
