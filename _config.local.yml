@@ -44,9 +44,6 @@ links:
   - title: F/LAT
     url: http://f-lat.org/
     external: true
-  - title: BBUG
-    url: http://bbug.tuxfamily.org/
-    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Brussels
