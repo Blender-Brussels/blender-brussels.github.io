@@ -38,5 +38,5 @@ How to run it locally while editing the pages:
 When you're done, push it back to Github for publishing changes to the world.
 
 Note that Blender-Brussels communication is mainly done in english. But some articles are translated to french. 
-The multi-lingual configuration has been inspired by [Sylvain Durand](http://sylvain.durand.tf/making-jekyll-multilingual/).
+The multi-lingual configuration has been inspired by [Sylvain Durand](http://sylvaindurand.org/making-jekyll-multilingual/).
 
