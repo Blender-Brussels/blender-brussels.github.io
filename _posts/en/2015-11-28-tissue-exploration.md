@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tissue
+title: Computational modeling with Tissue
 description: "A session around the exploration of the Tissue addon for Blender"
 modified:
 category: articles
@@ -22,6 +22,7 @@ Nebeor, one of the member of Blender-Brussels, is a developer who likes to use P
 We invite yo to join us in this workshop to explore the possibilities of this computational modeling tool. There is no Python programming involved here (except if you want to dig in the [source code](https://github.com/alessandro-zomparelli/tissue) of the plugin). So it will be mostly manipulations done using the GUI, but we thought it fitted the scope of Blender-Brussels as it has some form of a programmatic approach to designing objects.
 
 Have a look at the presentation video:
+
 <iframe src="https://player.vimeo.com/video/132720942" width="500" height="273" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/132720942">Tissue - Tessellate Operator (Blender&#039;s Add-on)</a> from <a href="https://vimeo.com/alessandrozomparelli">Alessandro Zomparelli</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 And the examples of 3D printed objects generated using Tissue. And tell me you're not impatient to try this
