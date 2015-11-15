@@ -22,6 +22,7 @@ Nebeor est un des membres des Blender-Brussels, mais aussi un developpeur qui ai
 Nous vous invitons donc à explorer une approche logico-géomitrique de la modélisation permise par cette nouvelle extension à BLender. Il n'y aura pas de programmation Python (sauf is vous êtes intéressé par le [code source](https://github.com/alessandro-zomparelli/tissue) du plugin). Nous utiliserons principalement sur des manipulations via l'interface graphique. Néanmoins, l'approche ici nous semble pertinente dans le cadre de nos ateliers vu que cela fait appel à des logiques programmatiques.
 
 Jetez un oeil sur cette vidéo de présentation:
+
 <iframe src="https://player.vimeo.com/video/132720942" width="500" height="273" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/132720942">Tissue - Tessellate Operator (Blender&#039;s Add-on)</a> from <a href="https://vimeo.com/alessandrozomparelli">Alessandro Zomparelli</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Et sur les exemples d'objets générés et imprimés en 3D. Ne me dites pas que cela ne vous donne pas l'eau à la bouche.
