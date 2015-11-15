@@ -5,7 +5,7 @@ disqus_shortname:
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
 
-# Production 
+# Production
 url:              //blender-brussels.github.io
 
 # Owner/author information
@@ -60,7 +60,7 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: false
+  enable_coderay: false
 
   coderay:
     coderay_line_numbers:
@@ -75,7 +75,7 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 # Jekyll plugins
 gems:
   - jekyll-mentions
-  
+
 # Multi-lingual settings
 
 # site.lang
