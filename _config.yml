@@ -49,7 +49,7 @@ links:
 timezone:    Europe/Brussels
 future:      true
 #pygments:    true
-highlighter: pygments
+#highlighter: pygments
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
@@ -73,8 +73,8 @@ include: [".htaccess"]
 exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
 
 # Jekyll plugins
-gems:
-  - jekyll-mentions
+# gems:
+#  - jekyll-mentions
 
 # Multi-lingual settings
 
