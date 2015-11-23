@@ -32,7 +32,8 @@ Et sur les exemples d'objets générés et imprimés en 3D. Ne me dites pas que 
 Cet atelier est ouvert à toutes et tous et se déroulera le samedi 28 novembre, entre 10:45am et 18h dans les nouveaux locax de F/LAT. On prendra une pause casse-croute entre 14:00 et 15:00, au cas où vous comptiez nous rejoindre plus tard.
 
 ## Tu veux participer?
-Alors viens nous faire signe sur la [liste de discussion](http://lurk.org/groups/blender-brussels/). Il est **OBLIGATOIRE** de s'inscrire à l'atelier. Nous avons besoin de mettre de ton nom sur une liste de personne qui seront autorisées à entrer dans le batiment. Alors, dis nous si tu viens en signalant ta présence sur la liste de discussion ou en envoyant un mail à Julien : juego [at] requiem4tv [dot] com.
+
+Alors viens nous faire signe sur la [liste de discussion](http://lurk.org/groups/blender-brussels/). Il est **OBLIGATOIRE** de s'inscrire à l'atelier. <span style="color: red;">À cause des circonstances exceptionnelles à Bruxelles en ce moment, seules les personnes inscrites sur la liste des participants seront autorisées à entrer dans le bâtiment</span>. Alors, dis nous si tu viens en signalant ta présence sur [la liste de discussion](http://lurk.org/groups/blender-brussels/) (on préfère) ou en envoyant un mail directememt à Julien : juego [at] requiem4tv [dot] com.
 
 En espérant vous voir nombreux.
 

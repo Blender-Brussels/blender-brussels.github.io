@@ -32,7 +32,8 @@ And the examples of 3D printed objects generated using Tissue. And tell me you'r
 This workshop session will be held this Saturday 28th of November, between 10:45am and 6 pm in the new F/LAT offices. There will be a lunch break 14:00 and 15:00, so you know, in case you want to join at different times.
 
 ## Want to participate?
-Then announce your participation on our [mailing-list](http://lurk.org/groups/blender-brussels/). It is **MANDATORY** to tell us if you're going to be there or not. We need to put your name on a list of participants in order to let you in the building. So please say it on the mailing-list (prefered way) or send a mail to Julien: juego [at] requiem4tv [dot] com.
+
+Then announce your participation on our [mailing-list](http://lurk.org/groups/blender-brussels/). It is **MANDATORY** to tell us if you're going to be there or not. <span style="color:red">Due to to exceptional situation in Brussels at the moment, only the persons mentioned on the list of participants will be allowed to enter the building.</span> So please say if you're coming on [the mailing-list](http://lurk.org/groups/blender-brussels/) (prefered way) or send a mail to Julien: juego [at] requiem4tv [dot] com.
 
 Hope to see you there in numbers.
 
